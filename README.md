@@ -1,2 +1,3 @@
 # hello-world
-First github exploration.
+
+Drake Jerez, age 16, third year intermediate school.
